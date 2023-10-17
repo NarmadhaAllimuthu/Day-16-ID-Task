@@ -3,7 +3,7 @@
 
 
 setTimeout(function () {
-   var count= document.body.innerHTML ="10";
+    document.body.innerHTML ="10";
     setTimeout(function () {
         document.body.innerHTML ="9"; 
       setTimeout(function () {
